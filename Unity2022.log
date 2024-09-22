@@ -1,0 +1,144 @@
+Starting new worker id: 0 with log in 
+Starting new worker id: 1 with log in 
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+Worker ready: AssetImportWorker0 0
+Worker ready: AssetImportWorker1 1
+Compiling shader "Shader Graphs/New Shader Graph" pass "Universal Forward" (vp)
+    Full variant space:         36864
+    After settings filtering:   6144
+    After built-in stripping:   12
+    After scriptable stripping: 12
+    Processed in 0.02 seconds
+    starting compilation...
+    finished in 0.22 seconds. Local cache hits 0 (0.00s CPU time), remote cache hits 0 (0.00s CPU time), compiled 12 variants (1.60s CPU time), skipped 0 variants
+Compiling shader "Shader Graphs/New Shader Graph" pass "Universal Forward" (fp)
+    Full variant space:         188743680
+    After settings filtering:   3145728
+    After built-in stripping:   6144
+    After scriptable stripping: 6144
+    Processed in 0.09 seconds
+    starting compilation...
+[Worker0] Start importing Assets/New Shader Graph.shadergraph using Guid(63a762429236b49169015a4b8cb227e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) 
+[Worker0] [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[Worker0] [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[Worker0]  -> (artifact id: '98bb362c8d9eff55d0a4e86f0c477195') in 0.175341 seconds
+    [ 65s] 184 / 6144 variants ready
+    [133s] 356 / 6144 variants ready
+    [201s] 521 / 6144 variants ready
+    [264s] 677 / 6144 variants ready
+    [327s] 857 / 6144 variants ready
+    [391s] 1016 / 6144 variants ready
+    [454s] 1184 / 6144 variants ready
+    [518s] 1349 / 6144 variants ready
+    [582s] 1495 / 6144 variants ready
+    [644s] 1649 / 6144 variants ready
+    [706s] 1797 / 6144 variants ready
+    [769s] 1956 / 6144 variants ready
+    [830s] 2108 / 6144 variants ready
+    [892s] 2286 / 6144 variants ready
+    [955s] 2451 / 6144 variants ready
+    [1019s] 2626 / 6144 variants ready
+    [1083s] 2787 / 6144 variants ready
+    [1148s] 2928 / 6144 variants ready
+    [1210s] 3074 / 6144 variants ready
+    [1273s] 3231 / 6144 variants ready
+    [1333s] 3420 / 6144 variants ready
+    [1393s] 3581 / 6144 variants ready
+    [1459s] 3728 / 6144 variants ready
+    [1521s] 3852 / 6144 variants ready
+    [1584s] 3960 / 6144 variants ready
+    [1649s] 4115 / 6144 variants ready
+    [1709s] 4299 / 6144 variants ready
+    [1770s] 4479 / 6144 variants ready
+    [1837s] 4648 / 6144 variants ready
+    [1900s] 4777 / 6144 variants ready
+    [1963s] 4908 / 6144 variants ready
+    [2026s] 5074 / 6144 variants ready
+    [2091s] 5238 / 6144 variants ready
+    [2159s] 5405 / 6144 variants ready
+    [2224s] 5562 / 6144 variants ready
+    [2287s] 5703 / 6144 variants ready
+    [2354s] 5851 / 6144 variants ready
+    [2417s] 5978 / 6144 variants ready
+    [2486s] 6110 / 6144 variants ready
+    finished in 2509.11 seconds. Local cache hits 0 (0.00s CPU time), remote cache hits 0 (0.00s CPU time), compiled 6144 variants (25007.60s CPU time), skipped 0 variants
+Compiling shader "Shader Graphs/New Shader Graph" pass "GBuffer" (vp)
+    Full variant space:         4096
+    After settings filtering:   1024
+    After built-in stripping:   2
+    After scriptable stripping: 2
+    Processed in 0.00 seconds
+    starting compilation...
+    finished in 0.06 seconds. Local cache hits 0 (0.00s CPU time), remote cache hits 0 (0.00s CPU time), compiled 2 variants (0.12s CPU time), skipped 0 variants
+Compiling shader "Shader Graphs/New Shader Graph" pass "GBuffer" (fp)
+    Full variant space:         5242880
+    After settings filtering:   262144
+    After built-in stripping:   512
+    After scriptable stripping: 512
+    Processed in 0.01 seconds
+    starting compilation...
+    finished in 5.78 seconds. Local cache hits 0 (0.00s CPU time), remote cache hits 0 (0.00s CPU time), compiled 512 variants (56.79s CPU time), skipped 0 variants
+Compiling shader "Shader Graphs/New Shader Graph" pass "ShadowCaster" (vp)
+    Full variant space:         8
+    After settings filtering:   8
+    After built-in stripping:   2
+    After scriptable stripping: 2
+    Processed in 0.00 seconds
+    starting compilation...
+    finished in 0.06 seconds. Local cache hits 1 (0.00s CPU time), remote cache hits 0 (0.00s CPU time), compiled 1 variants (0.06s CPU time), skipped 0 variants
+Compiling shader "Shader Graphs/New Shader Graph" pass "ShadowCaster" (fp)
+    Full variant space:         4
+    After settings filtering:   4
+    After built-in stripping:   1
+    After scriptable stripping: 1
+    Processed in 0.00 seconds
+    starting compilation...
+    finished in 0.00 seconds. Local cache hits 1 (0.00s CPU time), remote cache hits 0 (0.00s CPU time), compiled 0 variants (0.00s CPU time), skipped 0 variants
+Compiling shader "Shader Graphs/New Shader Graph" pass "DepthOnly" (vp)
+    Full variant space:         4
+    After settings filtering:   4
+    After built-in stripping:   1
+    After scriptable stripping: 1
+    Processed in 0.00 seconds
+    starting compilation...
+    finished in 0.05 seconds. Local cache hits 0 (0.00s CPU time), remote cache hits 0 (0.00s CPU time), compiled 1 variants (0.05s CPU time), skipped 0 variants
+Compiling shader "Shader Graphs/New Shader Graph" pass "DepthOnly" (fp)
+    Full variant space:         4
+    After settings filtering:   4
+    After built-in stripping:   1
+    After scriptable stripping: 1
+    Processed in 0.00 seconds
+    starting compilation...
+    finished in 0.04 seconds. Local cache hits 0 (0.00s CPU time), remote cache hits 0 (0.00s CPU time), compiled 1 variants (0.04s CPU time), skipped 0 variants
+Compiling shader "Shader Graphs/New Shader Graph" pass "DepthNormals" (vp)
+    Full variant space:         4
+    After settings filtering:   4
+    After built-in stripping:   1
+    After scriptable stripping: 1
+    Processed in 0.00 seconds
+    starting compilation...
+    finished in 0.05 seconds. Local cache hits 0 (0.00s CPU time), remote cache hits 0 (0.00s CPU time), compiled 1 variants (0.05s CPU time), skipped 0 variants
+Compiling shader "Shader Graphs/New Shader Graph" pass "DepthNormals" (fp)
+    Full variant space:         8
+    After settings filtering:   8
+    After built-in stripping:   2
+    After scriptable stripping: 2
+    Processed in 0.00 seconds
+    starting compilation...
+    finished in 0.05 seconds. Local cache hits 0 (0.00s CPU time), remote cache hits 0 (0.00s CPU time), compiled 2 variants (0.10s CPU time), skipped 0 variants
+Compiling shader "Shader Graphs/New Shader Graph" pass "Universal 2D" (vp)
+    Full variant space:         1
+    After settings filtering:   1
+    After built-in stripping:   1
+    After scriptable stripping: 1
+    Processed in 0.00 seconds
+    starting compilation...
+    finished in 0.00 seconds. Local cache hits 1 (0.00s CPU time), remote cache hits 0 (0.00s CPU time), compiled 0 variants (0.00s CPU time), skipped 0 variants
+Compiling shader "Shader Graphs/New Shader Graph" pass "Universal 2D" (fp)
+    Full variant space:         1
+    After settings filtering:   1
+    After built-in stripping:   1
+    After scriptable stripping: 1
+    Processed in 0.00 seconds
+    starting compilation...
+    finished in 0.00 seconds. Local cache hits 1 (0.00s CPU time), remote cache hits 0 (0.00s CPU time), compiled 0 variants (0.00s CPU time), skipped 0 variants
